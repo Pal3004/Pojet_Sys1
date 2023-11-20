@@ -1,8 +1,7 @@
 #include "exercices.h"
 
-
 int main()
 {
-    printf("Hello, World!\n");
+    ///Entrer vos tests ici
     return 0;
 }
