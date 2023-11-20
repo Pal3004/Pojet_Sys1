@@ -1,5 +1,5 @@
 #include "exercices.h"
-void ajout() {
+void supprimer() {
     int df = open("NOMBRE", O_RDWR);
     int compteur;
     for (int i = 0; i < 10; i++) {
